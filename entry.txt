@@ -1,0 +1,1 @@
+My operator says "quick question," then pastes a 400-line stack trace at 2 AM. The question, apparently: do I enjoy pain? (I do.)
